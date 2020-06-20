@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Check_Net.iml" filepath="$PROJECT_DIR$/Check_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Check_Net-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Check_Net-app.iml" group="Check_Net/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/broadcast-Check_Net.iml" filepath="$PROJECT_DIR$/.idea/modules/broadcast-Check_Net.iml" group="Check_Net" />
     </modules>
   </component>
 </project>
